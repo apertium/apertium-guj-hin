@@ -1,0 +1,19 @@
+* text=auto !eol
+/AUTHORS -text
+/COPYING -text
+/ChangeLog -text
+/Makefile.am -text
+/NEWS -text
+/README -text
+/apertium-guj-hin.guj-hin.dix -text
+/apertium-guj-hin.guj-hin.lrx -text
+/apertium-guj-hin.guj-hin.t1x -text
+/apertium-guj-hin.guj-hin.t2x -text
+/apertium-guj-hin.guj-hin.t3x -text
+/apertium-guj-hin.hin-guj.lrx -text
+/apertium-guj-hin.hin-guj.t1x -text
+/apertium-guj-hin.hin-guj.t2x -text
+/apertium-guj-hin.hin-guj.t3x -text
+/autogen.sh -text
+/configure.ac -text
+/modes.xml -text
