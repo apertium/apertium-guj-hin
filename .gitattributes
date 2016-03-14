@@ -16,4 +16,5 @@
 /apertium-guj-hin.hin-guj.t3x -text
 /autogen.sh -text
 /configure.ac -text
+dev/hin_guj_story.txt -text svneol=unset#application/octet-stream
 /modes.xml -text
