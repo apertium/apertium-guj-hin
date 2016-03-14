@@ -1,18 +1,70 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <dictionary>
    <!-- Define the alphabet below. -->
-  <alphabet>aAáÁăảạÆbBcCčdDÐeEéèễệfFgGhHiIíjJkKlLmMnNoOóöớpPqQrRsSšştTŢuUúüưvVwWxXyYzZ</alphabet>
+  <alphabet>ઁંંઃઅઆઇઈઉઊઋઌઍએઐઑઓઔકખગઘઙચછજઝઞટઠડઢણતથદધનપફબભમયરલળવશષસહ઼ઽાિીુૂૃૄૅેૈૉોૌ્ૐૠૡૢૣ૦૧૨૩૪૫૬૭૮૯૰૱ऄअआइईउऊऋऌऍऎएऐऑऒओऔकखगघङचछजझञटठडढणतथदधनऩपफबभमयरऱलळऴवशषसहऺऻ़ऽािीुूृॄॅॆेैॉॊोौ्ॎॏॐ॒॑॓॔ॕॖॗक़ख़ग़ज़ड़ढ़फ़य़ॠॡॢॣॱॲॳॴॵॶॷॊऀँंः</alphabet>
 
   <sdefs>
     <!-- Define symbol definitions within <sdef> here. -->
-    <sdef n="n"     c="Noun"/>
-    <sdef n="sg"    c="Singular"/>
-    <sdef n="pl"    c="Plural"/>
+    <sdef n="np"      c="Proper noun"/>
+    <sdef n="n"       c="Noun"/>
+    <sdef n="num"     c="Numeral"/>
+    <sdef n="adv"     c="Adverb"/>
+    <sdef n="top"     c="Topological"/>
+    <sdef n="org"     c="organisation"/>
+    <sdef n="adj"     c="Adjective"/>
+    <sdef n="post"    c="Postposition"/>
+    <sdef n="vblex"   c="verb"/>
+	<sdef n="vaux"    c="vaux"/>
+    <sdef n="det"     c="Determiner"/>
+    <sdef n="prn"     c="Pronoun"/>
+	<sdef n="frm"     c="formal"/>
+    <sdef n="subj"    c="Subject"/>
+    <sdef n="itg"     c="Interrogative"/>
+    <sdef n="rel"     c="relative"/>
+    <sdef n="obl"     c="oblique"/>
+    <sdef n="pr"      c="Preposition"/>
+    <sdef n="pers"    c="Personal"/>
+    <sdef n="vbser"   c="Verb 'to be'"/>
+    <sdef n="cnjcoo"  c="Co-ordinating conjunction"/>
+    <sdef n="f"       c="Feminine"/>
+    <sdef n="m"       c="Masculine"/>
+    <sdef n="mf"      c="Masculine/feminine"/>
+    <sdef n="GD"      c="Gender to be determined"/>
+    <sdef n="FD"      c="Function to be determined"/>
+    <sdef n="tn"      c="Tónic (stressed)"/>
+    <sdef n="ind"     c="Indefinite"/>
+    <sdef n="ant"     c="Anthroponym"/>
+    <sdef n="cog"     c="Cognomen"/>
+    <sdef n="sp"      c="Singular / plural"/>
+    <sdef n="pos"     c="Possessive"/>
+    <sdef n="qnt"     c=""/>
+    <sdef n="sg"      c="Singular"/>
+    <sdef n="pl"      c="Plural"/>
+    <sdef n="sint"    c="Synthetic (adjective)"/>
+    <sdef n="sent"    c="Sentence marker"/>
+    <sdef n="cm"      c="Comma"/>
+    <sdef n="guio"    c="Hyphen"/>
+    <sdef n="ger"     c="Gerund"/>
+    <sdef n="nom"     c="Nominative"/>
+    <sdef n="pres"    c="Present tense"/>
+    <sdef n="predet"  c="Predeterminer"/>
+    <sdef n="cnjsub"  c="Sub-ordinating conjunction"/>
+    <sdef n="cnjadv"  c="Adverbial conjunction"/>
+    <sdef n="p1"      c="first person"/>
+    <sdef n="p2"      c="second person"/>
+    <sdef n="p3"      c="third person"/>
+    <sdef n="tv"      c="transitive"/>
+    <sdef n="sup"      c="superlitive"/>
+	<sdef n="iv"      c="intransitive"/>
+	<sdef n="ord"      c="ordinal"/>
+	<sdef n="lpar"      c="Left parenthesis"/>
+	<sdef n="rpar"      c="Right parenthesis"/>
+
   </sdefs>
 
    <section id="main" type="standard">
-      <!-- Define entries within <e> here. -->
-      <e><p><l>house<s n="n"/><s n="sg"/></l><r>house<s n="n"/><s n="sg"/></r></p></e>
+	<e><p><l>જેમ્સ<s n="np"/><s n="ant"/></l><r>जेम्स<s n="np"/><s n="ant"/></r></p></e>
+ 	<e><p><l>મેરી<s n="np"/><s n="ant"/></l><r>मैरी<s n="np"/><s n="ant"/></r></p></e>
    </section>
 </dictionary>
 
