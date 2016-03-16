@@ -38,10 +38,10 @@
       <program name="lt-proc $1">
         <file name="guj-hin.autogen.bin"/>
       </program>
-
+<!--
       <program name="lt-proc -p">
         <file name="guj-hin.autopgen.bin"/>
-      </program>
+      </program> -->
     </pipeline>
   </mode>
 
@@ -306,10 +306,10 @@
       <program name="lt-proc $1">
         <file name="hin-guj.autogen.bin"/>
       </program>
-
+<!--
       <program name="lt-proc -p">
         <file name="hin-guj.autopgen.bin"/>
-      </program>
+      </program> -->
     </pipeline>
   </mode>
 
