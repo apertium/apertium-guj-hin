@@ -69,6 +69,7 @@
 	<e><p><l>અને<s n="cnjcoo"/></l><r>और<s n="cnjcoo"/></r></p></e>
 	<e><p><l>અથવા<s n="cnjsub"/></l><r>अथवा<s n="cnjcoo"/></r></p></e>
 	<e><p><l>કે<s n="cnjsub"/></l><r>कि<s n="cnjsub"/></r></p></e>
+	<e><p><l>કે<s n="cnjsub"/></l><r>या<s n="cnjcoo"/></r></p></e>
 
 	<!-- Postposition -->
 	<e><p><l>પર<s n="post"/></l><r>पर<s n="post"/></r></p></e>
@@ -103,6 +104,9 @@
  	<e><p><l>છોકરો<s n="n"/></l><r>लड़का<s n="n"/></r></p></e>
  	<e><p><l>કૂતરો<s n="n"/></l><r>कुत्ता<s n="n"/></r></p></e>
  	<e><p><l>છોકરી<s n="n"/></l><r>लड़की<s n="n"/></r></p></e>
+
+ 	<e><p><l>વૃક્ષ<s n="n"/><s n="nt"/></l><r>पेड़<s n="n"/><s n="m"/></r></p></e>
+ 	<e><p><l>ઝાડ<s n="n"/><s n="nt"/></l><r>पेड़<s n="n"/><s n="m"/></r></p></e>
 
 	<!-- VERBS -->
 	<e><p><l>છે<s n="vbser"/></l><r>हो<s n="vbser"/></r></p></e> <!--FIXME : hindi monodix vbser-->
