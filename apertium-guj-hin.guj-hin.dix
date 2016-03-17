@@ -78,7 +78,15 @@
  	<e><p><l>છોકરો<s n="n"/></l><r>लड़का<s n="n"/></r></p></e>
  	<e><p><l>કૂતરો<s n="n"/></l><r>कुत्ता<s n="n"/></r></p></e>
  	<e><p><l>છોકરી<s n="n"/></l><r>लड़की<s n="n"/></r></p></e>
-	
+
+	<!-- VERBS -->
+	<e><p><l>છે<s n="vbser"/></l><r>हो<s n="vbser"/></r></p></e> <!--FIXME : hindi monodix vbser-->
+
+	<!-- Conjunctions -->
+	<e><p><l>અને<s n="cnjcoo"/></l><r>और<s n="cnjcoo"/></r></p></e>
+	<e><p><l>અથવા<s n="cnjsub"/></l><r>अथवा<s n="cnjcoo"/></r></p></e>
+	<e><p><l>કે<s n="cnjsub"/></l><r>कि<s n="cnjsub"/></r></p></e>
+
    </section>
 </dictionary>
 
