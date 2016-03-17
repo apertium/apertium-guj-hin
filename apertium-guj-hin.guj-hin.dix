@@ -28,6 +28,7 @@
     <sdef n="cnjcoo"  c="Co-ordinating conjunction"/>
     <sdef n="f"       c="Feminine"/>
     <sdef n="m"       c="Masculine"/>
+    <sdef n="nt"       c="Neutral Gender"/>
     <sdef n="mf"      c="Masculine/feminine"/>
     <sdef n="GD"      c="Gender to be determined"/>
     <sdef n="FD"      c="Function to be determined"/>
@@ -63,10 +64,20 @@
   </sdefs>
 
    <section id="main" type="standard">
+
+	<!-- PROPER NOUNS -->
 	<e><p><l>જેમ્સ<s n="np"/><s n="ant"/></l><r>जेम्स<s n="np"/><s n="ant"/></r></p></e>
 	<e><p><l>રાહુલ<s n="np"/><s n="ant"/></l><r>राहुल<s n="np"/><s n="ant"/></r></p></e>
  	<e><p><l>મેરી<s n="np"/><s n="ant"/></l><r>मैरी<s n="np"/><s n="ant"/></r></p></e>
  	<e><p><l>કાજોલ<s n="np"/><s n="ant"/></l><r>काजोल<s n="np"/><s n="ant"/></r></p></e>
+
+
+	<!-- NOUNS -->
+ 	<e><p><l>બગીચો<s n="n"/></l><r>बगीचा<s n="n"/></r></p></e>
+ 	<e><p><l>ઘર<s n="n"/><s n="nt"/></l><r>घर<s n="n"/><s n="m"/></r></p></e>
+ 	<e><p><l>છોકરો<s n="n"/></l><r>लड़का<s n="n"/></r></p></e>
+ 	<e><p><l>છોકરી<s n="n"/></l><r>लड़की<s n="n"/></r></p></e>
+	
    </section>
 </dictionary>
 
