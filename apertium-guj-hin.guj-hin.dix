@@ -65,6 +65,31 @@
 
    <section id="main" type="standard">
 
+	<!-- Conjunctions -->
+	<e><p><l>અને<s n="cnjcoo"/></l><r>और<s n="cnjcoo"/></r></p></e>
+	<e><p><l>અથવા<s n="cnjsub"/></l><r>अथवा<s n="cnjcoo"/></r></p></e>
+	<e><p><l>કે<s n="cnjsub"/></l><r>कि<s n="cnjsub"/></r></p></e>
+
+	<!-- Postposition -->
+	<e><p><l>પર<s n="post"/></l><r>पर<s n="post"/></r></p></e>
+
+
+	<!-- Adjectives -->
+		<!-- declinables -->
+	<e><p><l>સારો<s n="adj"/></l><r>अच्छा<s n="adj"/></r></p></e>
+	<e><p><l>નાનો<s n="adj"/></l><r>छोटा<s n="adj"/></r></p></e>
+	<e><p><l>મોટો<s n="adj"/></l><r>बड़ा<s n="adj"/></r></p></e>
+	<e><p><l>કાળો<s n="adj"/></l><r>काला<s n="adj"/></r></p></e>
+	<e><p><l>ઠંડો<s n="adj"/></l><r>ठंडा<s n="adj"/></r></p></e>
+
+		<!-- indeclinables -->
+	<e><p><l>ખરાબ<s n="adj"/></l><r>ख़राब<s n="adj"/></r></p></e>
+	<e><p><l>ભારી<s n="adj"/></l><r>भारी<s n="adj"/></r></p></e>
+	<e><p><l>સાફ<s n="adj"/></l><r>साफ़<s n="adj"/></r></p></e>
+	<e><p><l>કઠીન<s n="adj"/></l><r>कठिन<s n="adj"/></r></p></e>
+	<e><p><l>લાલ<s n="adj"/></l><r>लाल<s n="adj"/></r></p></e>
+
+
 	<!-- PROPER NOUNS -->
 	<e><p><l>જેમ્સ<s n="np"/><s n="ant"/></l><r>जेम्स<s n="np"/><s n="ant"/></r></p></e>
 	<e><p><l>રાહુલ<s n="np"/><s n="ant"/></l><r>राहुल<s n="np"/><s n="ant"/></r></p></e>
@@ -81,11 +106,6 @@
 
 	<!-- VERBS -->
 	<e><p><l>છે<s n="vbser"/></l><r>हो<s n="vbser"/></r></p></e> <!--FIXME : hindi monodix vbser-->
-
-	<!-- Conjunctions -->
-	<e><p><l>અને<s n="cnjcoo"/></l><r>और<s n="cnjcoo"/></r></p></e>
-	<e><p><l>અથવા<s n="cnjsub"/></l><r>अथवा<s n="cnjcoo"/></r></p></e>
-	<e><p><l>કે<s n="cnjsub"/></l><r>कि<s n="cnjsub"/></r></p></e>
 
    </section>
 </dictionary>
