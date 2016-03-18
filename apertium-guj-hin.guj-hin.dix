@@ -102,8 +102,11 @@
 	<e><p><l>પાસે<s n="adv"/></l><r>पास<s n="adv"/></r></p></e>
 	
 
-	<e><p><l>જ્યાં<s n="adv"/></l><r>कहाँ<s n="adv"/><s n="itg"/></r></p></e>
+	<e><p><l>ક્યાં<s n="adv"/></l><r>कहाँ<s n="adv"/><s n="itg"/></r></p></e>
+	<e><p><l>જ્યાં<s n="adv"/></l><r>जहाँ<s n="adv"/><s n="rel"/></r></p></e>
 	<e><p><l>જયારે<s n="adv"/></l><r>जब<s n="adv"/></r></p></e>
+	<e><p><l>ક્યારે<s n="adv"/></l><r>कब<s n="adv"/></r></p></e>
+
 
 
 	<e><p><l>નહીં<s n="adv"/></l><r>नहीं<s n="adv"/></r></p></e>
@@ -129,12 +132,14 @@
 
  	<e><p><l>વૃક્ષ<s n="n"/><s n="nt"/></l><r>पेड़<s n="n"/><s n="m"/></r></p></e>
  	<e><p><l>ઝાડ<s n="n"/><s n="nt"/></l><r>पेड़<s n="n"/><s n="m"/></r></p></e>
- 	
+
+ 	<e><p><l>હવામાન<s n="n"/><s n="nt"/></l><r>मौसम<s n="n"/><s n="m"/></r></p></e>
+
 	<e><p><l>ખુશી<s n="n"/><s n="f"/></l><r>खुशी<s n="n"/><s n="f"/></r></p></e>
 
 	
 	<!-- VERBS -->
-	<e><p><l>છે<s n="vbser"/></l><r>हो<s n="vbser"/></r></p></e> <!--FIXME : hindi monodix vbser-->
+	<e><p><l>હો<s n="vbser"/></l><r>हो<s n="vbser"/></r></p></e> <!--FIXME : hindi monodix vbser-->
 
    </section>
 </dictionary>
