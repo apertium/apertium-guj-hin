@@ -73,6 +73,8 @@
 
 	<!-- Postposition -->
 	<e><p><l>પર<s n="post"/></l><r>पर<s n="post"/></r></p></e>
+	<e><p><l>માં<s n="post"/></l><r>में<s n="post"/></r></p></e>
+	<e><p><l>થી<s n="post"/></l><r>से<s n="post"/></r></p></e>
 
 
 	<!-- Adjectives -->
@@ -89,6 +91,26 @@
 	<e><p><l>સાફ<s n="adj"/></l><r>साफ़<s n="adj"/></r></p></e>
 	<e><p><l>કઠીન<s n="adj"/></l><r>कठिन<s n="adj"/></r></p></e>
 	<e><p><l>લાલ<s n="adj"/></l><r>लाल<s n="adj"/></r></p></e>
+	<e><p><l>ખુશ<s n="adj"/></l><r>खुश<s n="adj"/></r></p></e>
+
+	<!-- Adverbs -->
+	<e><p><l>આજે<s n="adv"/></l><r>आज<s n="adv"/></r></p></e>
+	<e><p><l>કાલે<s n="adv"/></l><r>कल<s n="adv"/></r></p></e>
+	<e><p><l>ગઇકાલે<s n="adv"/></l><r>कल<s n="adv"/></r></p></e>
+
+	<e><p><l>ચોક્કસ<s n="adv"/></l><r>ज़रूर<s n="adv"/></r></p></e>
+	<e><p><l>પાસે<s n="adv"/></l><r>पास<s n="adv"/></r></p></e>
+	
+
+	<e><p><l>જ્યાં<s n="adv"/></l><r>कहाँ<s n="adv"/><s n="itg"/></r></p></e>
+	<e><p><l>જયારે<s n="adv"/></l><r>जब<s n="adv"/></r></p></e>
+
+
+	<e><p><l>નહીં<s n="adv"/></l><r>नहीं<s n="adv"/></r></p></e>
+	<e><p><l>નહી<s n="adv"/></l><r>नहीं<s n="adv"/></r></p></e>
+	<e><p><l>ના<s n="adv"/></l><r>नहीं<s n="adv"/></r></p></e>
+	<e><p><l>ન<s n="adv"/></l><r>नहीं<s n="adv"/></r></p></e>
+
 
 
 	<!-- PROPER NOUNS -->
@@ -107,7 +129,10 @@
 
  	<e><p><l>વૃક્ષ<s n="n"/><s n="nt"/></l><r>पेड़<s n="n"/><s n="m"/></r></p></e>
  	<e><p><l>ઝાડ<s n="n"/><s n="nt"/></l><r>पेड़<s n="n"/><s n="m"/></r></p></e>
+ 	
+	<e><p><l>ખુશી<s n="n"/><s n="f"/></l><r>खुशी<s n="n"/><s n="f"/></r></p></e>
 
+	
 	<!-- VERBS -->
 	<e><p><l>છે<s n="vbser"/></l><r>हो<s n="vbser"/></r></p></e> <!--FIXME : hindi monodix vbser-->
 
