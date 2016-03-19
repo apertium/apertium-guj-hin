@@ -17,7 +17,9 @@
 	<sdef n="vaux"    c="vaux"/>
     <sdef n="det"     c="Determiner"/>
     <sdef n="prn"     c="Pronoun"/>
-	<sdef n="frm"     c="formal"/>
+    <sdef n="frm"     c="formal"/>
+    <sdef n="fam"     c="familiar"/>
+
     <sdef n="subj"    c="Subject"/>
     <sdef n="itg"     c="Interrogative"/>
     <sdef n="rel"     c="relative"/>
@@ -47,6 +49,7 @@
     <sdef n="guio"    c="Hyphen"/>
     <sdef n="ger"     c="Gerund"/>
     <sdef n="nom"     c="Nominative"/>
+    <sdef n="gen"     c="Genitive"/>
     <sdef n="pres"    c="Present tense"/>
     <sdef n="predet"  c="Predeterminer"/>
     <sdef n="cnjsub"  c="Sub-ordinating conjunction"/>
@@ -67,14 +70,31 @@
 
 	<!-- Conjunctions -->
 	<e><p><l>અને<s n="cnjcoo"/></l><r>और<s n="cnjcoo"/></r></p></e>
+	<e><p><l>પણ<s n="cnjcoo"/></l><r>लेकिन<s n="cnjcoo"/></r></p></e>
+
 	<e><p><l>અથવા<s n="cnjsub"/></l><r>अथवा<s n="cnjcoo"/></r></p></e>
 	<e><p><l>કે<s n="cnjsub"/></l><r>कि<s n="cnjsub"/></r></p></e>
 	<e><p><l>કે<s n="cnjsub"/></l><r>या<s n="cnjcoo"/></r></p></e>
+
+	<!-- Numerals -->
+	<e><p><l>એક<s n="num"/></l><r>एक<s n="num"/></r></p></e>
+	<e><p><l>છ<s n="num"/></l><r>छह<s n="num"/></r></p></e>
+	<e><p><l>પાંચ<s n="num"/></l><r>पाँच<s n="num"/></r></p></e>
+
 
 	<!-- Postposition -->
 	<e><p><l>પર<s n="post"/></l><r>पर<s n="post"/></r></p></e>
 	<e><p><l>માં<s n="post"/></l><r>में<s n="post"/></r></p></e>
 	<e><p><l>થી<s n="post"/></l><r>से<s n="post"/></r></p></e>
+
+	<e><p><l>નું<s n="gen"/></l><r>का<s n="gen"/></r></p></e>
+	<e><p><l>ને<s n="gen"/></l><r>को<s n="post"/></r></p></e>
+
+	<e><p><l>ે<s n="post"/></l><r>ने<s n="post"/></r></p></e>
+	<e><p><l>એ<s n="post"/></l><r>ने<s n="post"/></r></p></e>
+
+
+	<e><p><l>સાથે<s n="post"/></l><r>साथ<s n="post"/></r></p></e>
 
 
 	<!-- Adjectives -->
@@ -84,6 +104,8 @@
 	<e><p><l>મોટો<s n="adj"/></l><r>बड़ा<s n="adj"/></r></p></e>
 	<e><p><l>કાળો<s n="adj"/></l><r>काला<s n="adj"/></r></p></e>
 	<e><p><l>ઠંડો<s n="adj"/></l><r>ठंडा<s n="adj"/></r></p></e>
+	<e><p><l>ખૂબ<s n="adj"/></l><r>बहुत<s n="adj"/></r></p></e>
+	<e><p><l>બહુ<s n="adj"/></l><r>बहुत<s n="adj"/></r></p></e>
 
 		<!-- indeclinables -->
 	<e><p><l>ખરાબ<s n="adj"/></l><r>ख़राब<s n="adj"/></r></p></e>
@@ -91,7 +113,8 @@
 	<e><p><l>સાફ<s n="adj"/></l><r>साफ़<s n="adj"/></r></p></e>
 	<e><p><l>કઠીન<s n="adj"/></l><r>कठिन<s n="adj"/></r></p></e>
 	<e><p><l>લાલ<s n="adj"/></l><r>लाल<s n="adj"/></r></p></e>
-	<e><p><l>ખુશ<s n="adj"/></l><r>खुश<s n="adj"/></r></p></e>
+	<e><p><l>ખુશ<s n="adj"/></l><r>ख़ुश<s n="adj"/></r></p></e>
+<!--	<e><p><l>ખુશ<s n="adj"/></l><r>खुश<s n="adj"/></r></p></e> -->
 
 	<!-- Adverbs -->
 	<e><p><l>આજે<s n="adv"/></l><r>आज<s n="adv"/></r></p></e>
@@ -106,13 +129,22 @@
 	<e><p><l>જ્યાં<s n="adv"/></l><r>जहाँ<s n="adv"/><s n="rel"/></r></p></e>
 	<e><p><l>જયારે<s n="adv"/></l><r>जब<s n="adv"/></r></p></e>
 	<e><p><l>ક્યારે<s n="adv"/></l><r>कब<s n="adv"/></r></p></e>
-
+	<e><p><l>ત્યારે<s n="adv"/></l><r>तब<s n="adv"/></r></p></e>
 
 
 	<e><p><l>નહીં<s n="adv"/></l><r>नहीं<s n="adv"/></r></p></e>
 	<e><p><l>નહી<s n="adv"/></l><r>नहीं<s n="adv"/></r></p></e>
 	<e><p><l>ના<s n="adv"/></l><r>नहीं<s n="adv"/></r></p></e>
 	<e><p><l>ન<s n="adv"/></l><r>नहीं<s n="adv"/></r></p></e>
+
+	<e><p><l>પણ<s n="adv"/></l><r>भी<s n="adv"/></r></p></e>
+
+	<!-- Pronouns -->
+
+	<e><p><l>હું<s n="prn"/></l><r>मैं<s n="prn"/></r></p></e>
+	<e><p><l>અમે<s n="prn"/></l><r>हम<s n="prn"/></r></p></e>
+	<e><p><l>તું<s n="prn"/></l><r>तू<s n="prn"/></r></p></e>
+	<e><p><l>તું<s n="prn"/><s n="pers"/><s n="p2"/><s n="sg"/></l><r>तुम<s n="prn"/><s n="pers"/><s n="p2"/><s n="sg"/><s n="fam"/></r></p></e>
 
 
 
@@ -129,17 +161,24 @@
  	<e><p><l>છોકરો<s n="n"/></l><r>लड़का<s n="n"/></r></p></e>
  	<e><p><l>કૂતરો<s n="n"/></l><r>कुत्ता<s n="n"/></r></p></e>
  	<e><p><l>છોકરી<s n="n"/></l><r>लड़की<s n="n"/></r></p></e>
+ 	<e><p><l>વર્ષ<s n="n"/></l><r>वर्ष<s n="n"/></r></p></e>
+ 	<e><p><l>બિલાડી<s n="n"/></l><r>बिल्ली<s n="n"/></r></p></e>
+ 	<e><p><l>સમય<s n="n"/></l><r>समय<s n="n"/></r></p></e>
+
 
  	<e><p><l>વૃક્ષ<s n="n"/><s n="nt"/></l><r>पेड़<s n="n"/><s n="m"/></r></p></e>
  	<e><p><l>ઝાડ<s n="n"/><s n="nt"/></l><r>पेड़<s n="n"/><s n="m"/></r></p></e>
-
  	<e><p><l>હવામાન<s n="n"/><s n="nt"/></l><r>मौसम<s n="n"/><s n="m"/></r></p></e>
 
 	<e><p><l>ખુશી<s n="n"/><s n="f"/></l><r>खुशी<s n="n"/><s n="f"/></r></p></e>
+	<e><p><l>ગરમી<s n="n"/><s n="f"/></l><r>गरमी<s n="n"/><s n="f"/></r></p></e>
 
-	
+
+
 	<!-- VERBS -->
 	<e><p><l>હો<s n="vbser"/></l><r>हो<s n="vbser"/></r></p></e> <!--FIXME : hindi monodix vbser-->
+	<e><p><l>રમવું<s n="vblex"/></l><r>खेल<s n="vbser"/></r></p></e>
+	<e><p><l>ગમવું<s n="vbser"/></l><r>पसंद<s n="vbser"/></r></p></e>
 
    </section>
 </dictionary>
