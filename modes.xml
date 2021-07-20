@@ -55,7 +55,7 @@
       <program name="cg-proc -w">
         <file name="guj-hin.rlx.bin"/>
       </program>
-      <program name="apertium-tagger -g $2">
+      <program name="apertium-tagger -x -g $2">
         <file name="guj-hin.prob"/>
       </program>
       <program name="apertium-pretransfer"/>
@@ -281,7 +281,7 @@
       <program name="cg-proc -w">
         <file name="hin-guj.rlx.bin"/>
       </program>
-      <program name="apertium-tagger -g $2">
+      <program name="apertium-tagger -g -u 2 $2">
         <file name="hin-guj.prob"/>
       </program>
       <program name="apertium-pretransfer"/>
@@ -323,7 +323,7 @@
       <program name="cg-proc -w">
         <file name="hin-guj.rlx.bin"/>
       </program>
-      <program name="apertium-tagger -g $2">
+      <program name="apertium-tagger -g -u 2 $2">
         <file name="hin-guj.prob"/>
       </program>
       <program name="apertium-pretransfer"/>
@@ -378,7 +378,7 @@
       <program name="cg-proc -w">
         <file name="hin-guj.rlx.bin"/>
       </program>
-      <program name="apertium-tagger -g $2">
+      <program name="apertium-tagger -g -u 2 $2">
         <file name="hin-guj.prob"/>
       </program>
     </pipeline>
@@ -394,7 +394,7 @@
       <program name="cg-proc -w">
         <file name="hin-guj.rlx.bin"/>
       </program>
-      <program name="apertium-tagger -g $2">
+      <program name="apertium-tagger -g -u 2 $2">
         <file name="hin-guj.prob"/>
       </program>
       <program name="apertium-pretransfer"/>
@@ -411,7 +411,7 @@
       <program name="cg-proc -w">
         <file name="hin-guj.rlx.bin"/>
       </program>
-      <program name="apertium-tagger -g $2">
+      <program name="apertium-tagger -g -u 2 $2">
         <file name="hin-guj.prob"/>
       </program>
       <program name="apertium-pretransfer"/>
@@ -431,7 +431,7 @@
       <program name="cg-proc -w">
         <file name="hin-guj.rlx.bin"/>
       </program>
-      <program name="apertium-tagger -g $2">
+      <program name="apertium-tagger -g -u 2 $2">
         <file name="hin-guj.prob"/>
       </program>
       <program name="apertium-pretransfer"/>
@@ -454,7 +454,7 @@
       <program name="cg-proc -w">
         <file name="hin-guj.rlx.bin"/>
       </program>
-      <program name="apertium-tagger -g $2">
+      <program name="apertium-tagger -g -u 2 $2">
         <file name="hin-guj.prob"/>
       </program>
       <program name="apertium-pretransfer"/>
@@ -478,7 +478,7 @@
       <program name="cg-proc -w">
         <file name="hin-guj.rlx.bin"/>
       </program>
-      <program name="apertium-tagger -g $2">
+      <program name="apertium-tagger -g -u 2 $2">
         <file name="hin-guj.prob"/>
       </program>
       <program name="apertium-pretransfer"/>
@@ -506,7 +506,7 @@
       <program name="cg-proc -w">
         <file name="hin-guj.rlx.bin"/>
       </program>
-      <program name="apertium-tagger -g $2">
+      <program name="apertium-tagger -g -u 2 $2">
         <file name="hin-guj.prob"/>
       </program>
       <program name="apertium-pretransfer"/>

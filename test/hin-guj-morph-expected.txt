@@ -1,0 +1,10 @@
+[P_IjwxT5aGlZ#0] ^पीछे/पीछे<post>$
+[/P_IjwxT5aGlZ]
+[SEx64D5TZB8P#0] ^बहुत/बहुत<adj><m><sg><nom>/बहुत<adj><m><sg><obl>/बहुत<adj><m><pl><nom>/बहुत<adj><m><pl><obl>/बहुत<adj><f><sg><nom>/बहुत<adj><f><sg><obl>/बहुत<adj><f><pl><nom>/बहुत<adj><f><pl><obl>$
+[/SEx64D5TZB8P]
+[Z9nbi3RBfi2G#0] ^फिर से/फिर से<adv>$
+[/Z9nbi3RBfi2G]
+[bItulNMwGp0x#0] ^समय/समय<n><m><sg><nom>/समय<n><m><sg><obl>/समय<n><m><pl><nom>/समय<n><m><pl><obl>$
+[/bItulNMwGp0x]
+[oxPbazPilVM-#0] ^ज़रूर/ज़रूर<adv>$
+[/oxPbazPilVM-]

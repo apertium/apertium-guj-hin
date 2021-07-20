@@ -1,0 +1,10 @@
+[P_IjwxT5aGlZ#0] ^પાછળ<post>$
+[/P_IjwxT5aGlZ]
+[SEx64D5TZB8P#0] ^ખૂબ<adj><m><sg><nom>$
+[/SEx64D5TZB8P]
+[Z9nbi3RBfi2G#0] ^ફરીથી<adv>$
+[/Z9nbi3RBfi2G]
+[bItulNMwGp0x#0] ^સમય<n><m><sg><nom>$
+[/bItulNMwGp0x]
+[oxPbazPilVM-#0] ^ચોક્કસ<adv>$
+[/oxPbazPilVM-]

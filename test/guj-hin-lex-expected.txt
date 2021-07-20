@@ -1,0 +1,10 @@
+[B1mu5PcBofdE#0] ^ઘર<n><nt><sg><obl>/घर<n><m><sg><obl>$ ^ે<post>/ने<post>$
+[/B1mu5PcBofdE]
+[CSn7GsAAIAcv#0] ^ભોજન<n><m><pl><nom>/खाना<n><m><pl><nom>$
+[/CSn7GsAAIAcv]
+[IEnDovn1NO3n#0] ^સમય<n><m><sg><obl>/समय<n><m><sg><obl>$ ^ને<gen>/को<post>$
+[/IEnDovn1NO3n]
+[ZUnXYsoBYlKu#0] ^હું<prn><pers><p1><nt><sg><gen>/मैं<prn><pers><p1><nt><sg><gen>$
+[/ZUnXYsoBYlKu]
+[y5ylekgahX8g#0] ^બારી<n><f><pl><obl>/खिड़की<n><f><pl><obl>$ ^નું<gen><f><sg>/का<gen><f><sg>$
+[/y5ylekgahX8g]

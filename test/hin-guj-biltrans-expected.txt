@@ -1,0 +1,10 @@
+[P_IjwxT5aGlZ#0] ^पीछे<post>/પાછળ<post>$
+[/P_IjwxT5aGlZ]
+[SEx64D5TZB8P#0] ^बहुत<adj><m><sg><nom>/ખૂબ<adj><m><sg><nom>/બહુ<adj><m><sg><nom>$
+[/SEx64D5TZB8P]
+[Z9nbi3RBfi2G#0] ^फिर से<adv>/ફરીથી<adv>$
+[/Z9nbi3RBfi2G]
+[bItulNMwGp0x#0] ^समय<n><m><sg><nom>/સમય<n><m><sg><nom>$
+[/bItulNMwGp0x]
+[oxPbazPilVM-#0] ^ज़रूर<adv>/ચોક્કસ<adv>$
+[/oxPbazPilVM-]

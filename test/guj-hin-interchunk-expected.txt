@@ -1,0 +1,10 @@
+[B1mu5PcBofdE#0] ^default<default>{^घर<n><m><sg><obl>$}$ ^default<default>{^ने<post>$}$
+[/B1mu5PcBofdE]
+[CSn7GsAAIAcv#0] ^default<default>{^खाना<n><m><pl><nom>$}$
+[/CSn7GsAAIAcv]
+[IEnDovn1NO3n#0] ^default<default>{^समय<n><m><sg><obl>$}$ ^default<default>{^को<post>$}$
+[/IEnDovn1NO3n]
+[ZUnXYsoBYlKu#0] ^default<default>{^मैं<prn><pers><p1><nt><sg><gen>$}$
+[/ZUnXYsoBYlKu]
+[y5ylekgahX8g#0] ^default<default>{^खिड़की<n><f><pl><obl>$}$ ^default<default>{^का<gen><f><sg>$}$
+[/y5ylekgahX8g]

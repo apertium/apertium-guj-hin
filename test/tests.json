@@ -1,0 +1,10 @@
+{
+    "guj-hin": {
+        "input": "guj-hin-input.txt",
+        "mode": "guj-hin"
+    },
+    "hin-guj": {
+        "input": "hin-guj-input.txt",
+        "mode": "hin-guj"
+    }
+}
